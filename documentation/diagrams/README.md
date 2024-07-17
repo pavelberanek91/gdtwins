@@ -37,6 +37,6 @@ This section describes the deployment strategy for our system.
 
 ![Deployment diagram for GDTwins.](./deployment.drawio.svg)
 
-lorem ipsum
+GDTwin web application will be hosted on UJEP server inside a virtual machine instance. Application will be divided to containerized microservices in Docker containers and running as a composed services via Docker Compose. 
 
 ![Profile diagram for IT operations for deployment diagram.](./profile-deployment.drawio.svg)
