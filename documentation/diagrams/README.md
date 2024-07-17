@@ -17,6 +17,7 @@ TODO
 - [Objects](#objects)
 - [Packages](#packages)
 - [Deployment](#deployment)
+- [Kanban](#kanban)
 - [Git Flow](#git-flow)
 - [Wireframe](#wireframe)
 - [Prototype](#prototype)
@@ -97,6 +98,9 @@ Citizens can contact GDTwin app through https requests on port 80 on their publi
 ![Profile diagram for IT operations for deployment diagram.](./profile-deployment.drawio.svg)
 
 Deployment diagram will be used mainly by IT operations department of UJEP. Profile diagram for own stereotypes was created with attributes of custom made stereotypes. These attributes are key attributes that needs to be checked and optimized by IT operations department and developers.
+
+## Kanban
+TODO
 
 ## Git-Flow
 TODO
