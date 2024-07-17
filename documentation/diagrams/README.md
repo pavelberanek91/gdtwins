@@ -4,7 +4,7 @@
 TODO
 
 ## Table of contents
-- [Conceptual Diagram](#conceptual-diagram)
+- [Context Diagram](#context-diagram)
 - [Use-cases](#use-cases)
 - [Activities](#activities)
 - [Sequences](#sequences)
@@ -19,7 +19,7 @@ TODO
 - [Deployment](#deployment)
 - [Prototype](#prototype)
 
-## Conceptual-Diagram
+## Context-Diagram
 TODO
 
 ## Use-Cases
