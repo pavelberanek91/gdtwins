@@ -25,6 +25,8 @@ TODO
 ## Context-Diagram
 TODO
 
+![Context diagram for GDTwins.](./context.drawio.svg)
+
 ## Use-Cases
 This section describes the main use-cases in our system.
 
