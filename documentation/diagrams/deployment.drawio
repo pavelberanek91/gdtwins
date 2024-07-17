@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-07-17T17:14:59.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Lx5XGnWcQTYQQcqPmqo6" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-17T17:16:52.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="FstOq7HhNuGs2X2q96PH" version="24.6.4" type="device">
   <diagram name="Stránka-1" id="_8IOg7pSY4LDhnt3MVjc">
-    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m8l0LJMs6shDdEdT_VAD-36" value="&amp;nbsp;Serves as reverse proxy &lt;br&gt;&amp;nbsp;for rest of containers" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="615" y="312" width="170.5" height="60" as="geometry" />
+          <mxGeometry x="615" y="308" width="170.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m8l0LJMs6shDdEdT_VAD-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=25;exitPerimeter=0;" edge="1" parent="1" source="m8l0LJMs6shDdEdT_VAD-14" target="m8l0LJMs6shDdEdT_VAD-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
