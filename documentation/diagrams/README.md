@@ -37,3 +37,6 @@ This section describes the deployment strategy for our system.
 
 ![Deployment diagram for GDTwins.](./deployment.drawio.svg)
 
+lorem ipsum
+
+![Profile diagram for IT operations for deployment diagram.](./profile-deployment.drawio.svg)
