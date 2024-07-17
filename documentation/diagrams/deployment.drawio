@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-07-17T17:17:28.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="gloe9Iin43XiM0K_j4HY" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-17T17:20:07.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="RWCct-BJsccmExcNFIM9" version="24.6.4" type="device">
   <diagram name="Stránka-1" id="_8IOg7pSY4LDhnt3MVjc">
     <mxGraphModel dx="989" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="m8l0LJMs6shDdEdT_VAD-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.993;exitY=0.39;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m8l0LJMs6shDdEdT_VAD-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="410" as="sourcePoint" />
-            <mxPoint x="330" y="408" as="targetPoint" />
+            <mxPoint x="318" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m8l0LJMs6shDdEdT_VAD-5" value="REST API data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m8l0LJMs6shDdEdT_VAD-4">
@@ -46,8 +46,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m8l0LJMs6shDdEdT_VAD-9" value="&amp;nbsp;Webgl build is a copy of a build in an&amp;nbsp; &amp;nbsp;iframe from Django container. Sends&amp;nbsp; &amp;nbsp;feedback data through REST API." style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="31.75" y="520" width="228.25" height="80" as="geometry" />
+        <mxCell id="m8l0LJMs6shDdEdT_VAD-9" value="&amp;nbsp;Deployed Webgl build is a copy of a build &lt;br&gt;&amp;nbsp;in an&amp;nbsp; iframe from Django container. Sends&amp;nbsp; &amp;nbsp;feedback data through REST API." style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="31.75" y="520" width="258.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m8l0LJMs6shDdEdT_VAD-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
