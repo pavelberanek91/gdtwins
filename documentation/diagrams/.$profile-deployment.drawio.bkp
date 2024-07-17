@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-07-17T18:22:17.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="YgaAhCy5QgbYx3FV9wJh" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-17T18:15:17.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="vXiHU5TJ2WpdsDKjjVzv" version="24.6.4" type="device">
   <diagram name="Stránka-1" id="ZZZ2Kr1HZE2Ncr-44mxc">
-    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,9 +129,6 @@
         </mxCell>
         <mxCell id="uvic1f5CzEEVcmznx8EX-26" value="&lt;div&gt;operatingSystem&lt;br&gt;&lt;/div&gt;allocatedDisk&lt;div&gt;allocatedRAM&lt;/div&gt;&lt;div&gt;CPULimit&lt;/div&gt;&lt;div&gt;hostedService&lt;/div&gt;&lt;div&gt;networkSettings&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="504.96206896551706" y="420.1276595744681" width="110" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vDGW5t2nn6haj2b_cj7W-1" value="&lt;b&gt;Profile Diagram&lt;/b&gt;&lt;div&gt;&lt;b&gt;IT Operations&lt;/b&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=109;height=60;" vertex="1" parent="1">
-          <mxGeometry x="100" y="30" width="740" height="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
