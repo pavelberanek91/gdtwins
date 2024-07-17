@@ -4,9 +4,25 @@
 TODO
 
 ## Table of contents
-TODo
+- [Conceptual Diagram](#conceptual-diagram)
+- [Use-cases](#use-cases)
+- [Activities](#activities)
+- [Sequences](#sequences)
+- [Interactions](#interactions)
+- [Timing](#timing)
+- [Components](#components)
+- [Entities](#entities)
+- [Classes](#classes)
+- [States](#states)
+- [Objects](#objects)
+- [Packages](#packages)
+- [Deployment](#deployment)
+- [Prototype](#prototype)
 
-## Use cases
+## Conceptual-Diagram
+TODO
+
+## Use-Cases
 This section describes the main use-cases in our system.
 
 ![Use case diagram for GDTwins.](./usecase.drawio.svg)
@@ -31,6 +47,36 @@ Use cases:
 12. **View digital twin map (UC12)**: Citizens can load the website of the public server (e.g., a regional or municipal website) and view the interactive visualization of the digital twin map. They can rotate, zoom, and pan within the map.
 13. **Provide opinion on objects by voting (UC13)**: When a citizen clicks on an object, they can choose variants of objects from the same group and provide feedback (the feedback scheme is defined by the registered modeler). They can also provide feedback on the digital twin map as a whole. Feedback is posted through a REST API to the GDTwins server, paired with digital twin projects by ID, and saved.
 
+## Activities
+TODO
+
+## Sequences
+TODO
+
+## Interactions
+TODO
+
+## Timing
+TODO
+
+## Components
+TODO
+
+## Entitities
+TODO
+
+## Classes
+TODO
+
+## States
+TODO
+
+## Objects
+TODO
+
+## Packages
+TODO
+
 ## Deployment
 
 This section describes the deployment strategy for our system.
@@ -39,4 +85,16 @@ This section describes the deployment strategy for our system.
 
 GDTwin web application will be hosted on UJEP server inside a virtual machine instance. Application will be divided to containerized microservices in Docker containers and running as a composed services via Docker Compose. 
 
+List of containers:
+1. Nginx: serves as reverse proxy for application, enhances security.
+2. Django: hosts python webapp with all the logic. Hosts webgl build of unity engine application.
+3. Postgres: servers Django container for storing data about digital twin maps and feedback to its objects.
+
+Citizens can contact GDTwin app through https requests on port 80 on their public webservers. Upon opening specified webpage on public webserver (GET method in https request) the Webgl build is send from GDTwin web app to public webserver. Feedback interaction in deployed build on public webserver sends feedback data through REST API on GDTwin webapp where it will be stored in Postgres database. Database data are stored with virtual Docker volume that holds database data and configuration data.
+
 ![Profile diagram for IT operations for deployment diagram.](./profile-deployment.drawio.svg)
+
+Deployment diagram will be used mainly by IT operations department of UJEP. Profile diagram for own stereotypes was created with attributes of custom made stereotypes. These attributes are key attributes that needs to be checked and optimized by IT operations department and developers.
+
+## Prototype
+TODO
