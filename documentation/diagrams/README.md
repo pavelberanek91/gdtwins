@@ -35,5 +35,5 @@ Use cases:
 
 This section describes the deployment strategy for our system.
 
-![Use case diagram for GDTwins.](./usecase.drawio.svg)
+![Deployment diagram for GDTwins.](./deployment.drawio.svg)
 
