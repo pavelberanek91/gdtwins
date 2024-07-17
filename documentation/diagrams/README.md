@@ -62,7 +62,7 @@ TODO
 ## Components
 TODO
 
-## Entitities
+## Entities
 TODO
 
 ## Classes
