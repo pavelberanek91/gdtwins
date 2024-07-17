@@ -7,7 +7,7 @@ TODO
 TODo
 
 ## Use cases
-This section describes the main use-cases in our application.
+This section describes the main use-cases in our system.
 
 ![Use case diagram for GDTwins.](./usecase.drawio.svg)
 
@@ -30,3 +30,10 @@ Use cases:
 11. **Include digital twin map to website (UC11)**: After obtaining the iframe code, the registered modeler can (possibly with the help of an IT specialist) access the code of the public website where they want to place the digital twin map and paste it into the appropriate place in the HTML code or web component. After pasting the iframe code, the website should be able to load the digital twin map from the GDTwins web server and render it for visiting citizens.
 12. **View digital twin map (UC12)**: Citizens can load the website of the public server (e.g., a regional or municipal website) and view the interactive visualization of the digital twin map. They can rotate, zoom, and pan within the map.
 13. **Provide opinion on objects by voting (UC13)**: When a citizen clicks on an object, they can choose variants of objects from the same group and provide feedback (the feedback scheme is defined by the registered modeler). They can also provide feedback on the digital twin map as a whole. Feedback is posted through a REST API to the GDTwins server, paired with digital twin projects by ID, and saved.
+
+## Deployment
+
+This section describes the deployment strategy for our system.
+
+![Use case diagram for GDTwins.](./usecase.drawio.svg)
+
